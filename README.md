@@ -29,8 +29,8 @@ Step 7: Save and run the application.
   ```
 /*
 Program to create and design an android application for draw basic graphical primitives.
-Developed by: RAGUL VK
-RegisterNumber:  212221240043
+Developed by: Easwar J
+RegisterNumber:  212221230024
 */
 ```
 
